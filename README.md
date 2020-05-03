@@ -1,9 +1,9 @@
 # README
 
 CSS370 Winter 2020 - Project Inception
-Steven Bollman
-Bisrat Asefaw
-Tom Blanchard
+Steven Bollman,
+Bisrat Asefaw,
+Tom Blanchard,
 Borna Borhani
 
 Lindsay’s Classroom PictoTimer
